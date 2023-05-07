@@ -11,7 +11,7 @@ A python program that parses json files to tell if a person you follow on instag
 
 4) Create a REPL Python file like so: 
 ![image](https://user-images.githubusercontent.com/69100536/236706274-07cd4ebf-8571-4f84-a9c9-580cf2ea3bf5.png) 
-then proceed to dropping the two previously stated files into the file hub. 
+\nthen proceed to dropping the two previously stated files into the file hub. 
 
 ![image](https://user-images.githubusercontent.com/69100536/236706405-94a5b9cf-dc82-437e-a38a-a128a62923e0.png)
 
