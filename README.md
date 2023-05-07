@@ -3,7 +3,9 @@ A python program that parses json files to tell if a person you follow on instag
 
 --- How to use the program ---
 
-1) Go to Instagram for Web (Insta on your laptop) and head over to your profile. Next you want to select the three lines ![image](https://user-images.githubusercontent.com/69100536/236705938-38d48445-d629-4560-9898-3fc536748f7f.png) and click on the "Your activity" button. This will lead you to a page with all the activities you have performed over the years on instagram.
+1) Go to Instagram for Web (Insta on your laptop) and head over to your profile. Next you want to select the three lines and click on the "Your activity" button. This will lead you to a page with all the activities you have performed over the years on instagram.
+
+![image](https://user-images.githubusercontent.com/69100536/236705938-38d48445-d629-4560-9898-3fc536748f7f.png)
 
 2) Now you will want to click on "Download your information," and then input the email you want the data to be sent to. Remember to download the data as **JSON** or else the program will not function as intended.
 
